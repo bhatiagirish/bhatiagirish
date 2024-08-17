@@ -29,7 +29,7 @@
 <a href="https://twitter.com/bhatiagirish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhatiagirish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/girishbhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girishbhatia" height="30" width="40" /></a>
 <a href="https://medium.com/@bhatiagirish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhatiagirish" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cloudwithgirish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudwithgirish" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cloudwithgirish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudwithgirish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
