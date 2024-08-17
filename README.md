@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Girish Bhatia</h1>
 <h3 align="center">I am an AWS Cloud Technology Enthusiast & Technical Program Delivery Leader. I love to deliver cloud-based software solution in alignment with strategic goals for business & technology modernization.</h3>
 
-- 🔭 I’m currently working on **Generative AI, Serverless, Lambda, API**
+- 🔭 I’m currently working on **Generative AI, Serverless, Lambda, API**. I like to build proof of concepts and prototypes using various AWS Services. 
 
 - 👀 I’m interested in AWS Generative AI Solutions, API Gateway, Lambda, DynamoDB, Python, SNS, SQS, SES, VS Code
 
