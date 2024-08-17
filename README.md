@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Generative AI, Serverless, Lambda, API**
 
-  - 👀 I’m interested in AWS Generative AI Solutions, API Gateway, Lambda, DynamoDB, Python, SNS, SQS, SES, VS Code
+- 👀 I’m interested in AWS Generative AI Solutions, API Gateway, Lambda, DynamoDB, Python, SNS, SQS, SES, VS Code
 
 - 🌱 I’m currently learning **Amazon Bedrock, RAG, LLMs, Generative AI**
 
