@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://community.aws/editor/posts](https://community.aws/editor/posts)
 
-- 💬 Ask me about **AWS Serverless, Amazon Bedrock, Generative AI**
+- 💬 Ask me about **Kiro, AWS Serverless, Amazon Bedrock, Generative AI**
 
 - 📫 How to reach me **girish@cloudwithgirish.com**
 
