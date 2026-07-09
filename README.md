@@ -1,5 +1,6 @@
   <h1 align="center">Hi 👋, I'm Girish Bhatia</h1>
 <h3 align="center">I am an AWS Cloud Technology Enthusiast & Technical Program Delivery Leader. I love to deliver cloud-based software solution in alignment with strategic goals for business & technology modernization.</h3>
+<h3 align="center"> AWS Community Builder – AI Engineering | Technology Delivery Leader specializing in Cloud Modernization, Serverless, and AI Engineering, with 20+ years of enterprise experience. Passionate about delivering cloud-based solutions that align technology innovation with strategic business modernization goals while sharing practical knowledge through Cloud With Girish technical blogs, YouTube videos, conference presentations, and AWS Community events.</h3>
 
 - 🔭 I’m currently working on **Generative AI, Kiro, Agentic AI, Serverless, Lambda, API**. I like to build proof of concepts and prototypes using various AWS Services. 
 
